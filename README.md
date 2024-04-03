@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanyukta217
 - 👀 I’m interested in coding, research, designing
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Laravel Framework
 - 📫 Contact me @ sanyukta217@gmail.com 
 
 <!---
